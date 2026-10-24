@@ -1,0 +1,6 @@
+{
+  "name": "OscarTuber",
+  "description": "Offline video player & streaming platform with creator studio, WEPER subscriptions, shorts, and offline downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
